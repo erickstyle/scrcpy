@@ -18,4 +18,4 @@ cd "$BUILDDIR"
 ninja
 
 echo "[scrcpy] Installing (sudo)..."
-sudo ninja install
+ninja install
